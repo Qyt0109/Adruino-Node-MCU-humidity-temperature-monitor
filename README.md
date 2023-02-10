@@ -1,8 +1,5 @@
 # Adruino-Node-MCU-humidity-temperature-monitor
 Phần mềm giám sát nhiệt độ, độ ẩm thông qua mạng wifi - lan sử dụng mạch Arduino hoặc Node MCU
-# Book-Store-ECommerce-Website
-<h3>Book Store ECommerce Website using Java Servlet and Hibernate framework</h3>
-<hr>
 <h3>PROJECT OVERVIEW</h3>
 <h4>Technologies:</h4>
 <ul>
